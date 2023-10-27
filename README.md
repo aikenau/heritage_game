@@ -1,6 +1,7 @@
 # heritage_game
 
 my code for dissertation
+This won't be able directly use, since the API key, and build folder are all removed.
 
 ## Getting Started
 
